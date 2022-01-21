@@ -1,0 +1,24 @@
+body.fondo{
+    background-color: rgb(250, 217, 175);
+}
+
+div.titulo{
+    text-align: center;
+    color: rgb(117, 3, 3);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div.lineanegr{
+    background-color: black;
+    height: 2px;
+}
+
+div.lacarta{
+    position: relative;
+    top: 20px;
+    
+}
+
+p.tamañotexto{
+    color: blue;
+}
