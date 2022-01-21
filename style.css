@@ -16,9 +16,14 @@ div.lineanegr{
 div.lacarta{
     position: relative;
     top: 20px;
-    
+    color: rgb(117, 3, 3);
 }
 
-p.tamañotexto{
-    color: blue;
+div.elcafe a{
+    position: relative;
+    top: 20px;
+    color: rgb(117, 3, 3);
+    text-decoration: none;
+    right: -350px;
 }
+
