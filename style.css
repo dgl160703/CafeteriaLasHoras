@@ -1,3 +1,4 @@
+/* CSS General/Principal */
 body.fondo{
     background-color: rgb(250, 217, 175);
 }
@@ -13,10 +14,11 @@ div.lineanegr{
     height: 2px;
 }
 
-div.lacarta{
+div.lacarta a{
     position: relative;
     top: 20px;
     color: rgb(117, 3, 3);
+    text-decoration: none;
 }
 
 div.elcafe a{
@@ -34,3 +36,24 @@ div.elcontacto a{
     text-decoration: none;
     left: 700px;
 }
+
+div.centrmarg{
+    margin: 0 auto;
+    max-width: 950px;
+    width: 100%;
+}
+
+/* CSS General Páginas Secundarias */
+
+
+    /* CSS Lacarta */
+
+
+
+
+    /* CSS ElCafe */
+
+
+
+
+    /* CSS Conacto */

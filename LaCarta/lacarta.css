@@ -1,0 +1,83 @@
+body.fondo{
+    background-color: rgb(250, 217, 175);
+}
+
+div.titulo{
+    text-align: center;
+    color: rgb(117, 3, 3);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div.espaciado{
+    margin-top: 500px;
+}
+
+#seleccion-menu{
+    margin:40px auto;
+    width:95%;
+    min-width:320px;
+    max-width:950px;
+    border-radius: 30%; 
+}    
+
+div.contenedor-opciones{
+    margin-top: 5px;
+    width: 100%;
+    clear: both;
+    display: inline-block;
+    background-color: rgb(53, 206, 61);
+}
+
+
+.contenedor-nombre{
+    position: relative;
+    display: block;
+    padding: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300px;
+    font-size: 20px;
+    background-color: rgb(90, 90, 90);
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+div.centrmarg{
+    margin: 0 auto;
+    max-width: 950px;
+}
+
+/* SUB */
+div.bloqueimagen{
+    margin-top: 5px;
+    width: 30%;
+    clear: both;
+    display: inline-block;
+    /* background-color: rgb(53, 206, 61);  */
+    align-content: left;
+}
+
+div.textoo{
+    padding: 30px;
+    width: 40%;
+    color: rgb(117, 3, 3);
+}
+
+div.cosas{
+    /* background-color: #fff; */
+    display: flex!important;
+    flex-direction: row;
+}
+    
+.textodescript{
+    color: rgb(138, 6, 6);
+}
+
+.estilonaranja{
+    color: orangered;
+}
+
+div.final{
+    color: rgb(117, 3, 3);
+    text-align: center;
+}
